@@ -2,6 +2,7 @@
 
 **Link(s) to work**
 1. [Twitter weather bot](https://twiiter.com/itsweatherbot)
+2. [NASA worm logo - SVG](https://codepen.io/itsbenduncan/pen/ExVxBoP)
 
 ### Day 1: April 6, 2020
 
@@ -34,3 +35,11 @@
 **Thoughts:** It took a little longer than I was expecting to finish this project. I also created a set pixel svg at the start so it doesn't resize which is an issue. Definitely want to spend another day in the future diving deeper with SVGs to create more accessible final projects. 
 
 **Link to work:** [NASA worm logo - SVG](https://codepen.io/itsbenduncan/pen/ExVxBoP)
+
+### Day 5: April 10, 2020
+
+**Today's Progress**: Started from scratch on my photography website. Today's main goal was to redisgn and implement react router for the first time. It was a success! Lots more to come. 
+
+**Thoughts:** React router is much easier to implement than my previously self made state routing system. Also very excited about the new site. It will serve as a general playground for these 100 days with upcoming functions such as an interactive retro camera, blog, contact form, e-commerce, and more. 
+
+**Link to work:** No link yet.
